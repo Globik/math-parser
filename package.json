@@ -1,0 +1,25 @@
+{
+  "name": "math expression parser",
+  "version": "0.0.1",
+  "description": "math expression parser",
+  "main": "math.js",
+  "scripts": {
+    "start": "node math"
+  },
+  "dependencies": {
+    "mathjs-expression-parser": "1.0.2",
+  },
+  "engines": {
+    "node": "9.3.0",
+    "npm": "6.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Globik/math-parser"
+  },
+  "keywords": [
+    "node",
+    "math-parser"
+  ],
+  "license": "MIT"
+}
